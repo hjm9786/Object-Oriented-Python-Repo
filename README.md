@@ -5,17 +5,16 @@ Overall though, most of it should work.
 
 CHANGE LOG:
 
-Added notebook file instead of the python one for syntax issue
+Scraping, file IO, and saving all works now
 
-Webscraping should add holidays
+Adding to holidays logic
 
-Saving should work
+Added decorator for removing holidays
 
 Issues:
 
-Webscraping won't place holidays with the others in json file, instead appends them to the very end and causes issues
+API intregration and viewing holidays functionality is very wonky/broken
 
-Same when adding to file
+Need to implement lambda function
 
-View holidays logic is a bit iffy, could use improvement.
 
